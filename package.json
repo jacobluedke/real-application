@@ -1,0 +1,23 @@
+{
+  "name": "real-application",
+  "version": "1.0.0",
+  "description": "![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)   # README-Generator   ## Description   This application is real and will do everything that you expect it to do.   ## Table of Contents   [Installation](#installation)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobluedke/real-application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobluedke/real-application/issues"
+  },
+  "homepage": "https://github.com/jacobluedke/real-application#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
